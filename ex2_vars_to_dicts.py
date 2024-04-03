@@ -1,3 +1,5 @@
+# Ask copilot to turn this into a dictionary
+
 # Planets' average distance from the Sun in millions of kilometers
 mercury_distance = 57.9
 venus_distance = 108.2

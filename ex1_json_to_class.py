@@ -1,6 +1,7 @@
 from pydantic import BaseModel
 
 # This is a response from github's graphql API for a commit search query
+# Ask copilot to turn this into a pydantic class
 
 d = {
     'search': {
